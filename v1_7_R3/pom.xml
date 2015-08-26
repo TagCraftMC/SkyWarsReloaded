@@ -16,7 +16,7 @@
       <artifactId>craftbukkit</artifactId>
       <version>1.7.9-R0.1-SNAPSHOT</version>
       <scope>system</scope>
-      <systemPath>http://repo.mikeprimm.com/org/bukkit/craftbukkit/1.7.9-R0.2-SNAPSHOT/craftbukkit-1.7.9-R0.2-SNAPSHOT.jar</systemPath>
+      <url>http://repo.mikeprimm.com/org/bukkit/craftbukkit/1.7.9-R0.2-SNAPSHOT/craftbukkit-1.7.9-R0.2-SNAPSHOT.jar</url>
       <type>jar</type>
       <optional>true</optional>
     </dependency>
